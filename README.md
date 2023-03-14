@@ -1,13 +1,12 @@
 <div>
-  <img src="https://img.shields.io/github/issues/404jv/dev-landia?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/404jv/dev-landia?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/404jv/dev-landia?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/404jv/dev-landia?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
 </div>
 
 <br />
 
-<h2><a href="./README_english.md">English version</a></h2>
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
