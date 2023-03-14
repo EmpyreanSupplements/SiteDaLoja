@@ -11,11 +11,11 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./public/logo.png" alt="Logo" width="160" height="40">
+    <img src="./imagens/gif3.gif" alt="Logo" height="240">
   </a>
 
   <p align="center">
-    💙 Aplicativo gratuito para aprender programação.
+    💜 Site de venda de suplementos e artigos de academia.
     <br />
     <a href="./DOCS.md"><strong>Explore a documentação »</strong></a>
     <br />
