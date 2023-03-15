@@ -12,6 +12,13 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="./imagens/gif3.gif" alt="Logo" height="240">
   </a>
+  
+  <br>
+  <br>
+  
+  <a href="https://www.gsuplementos.com.br/?gclid=Cj0KCQjwtsCgBhDEARIsAE7RYh0LkO-9Ig4E4ty0kIjSGLE5Aezj3TOc5ORauhnIZNML_ohPRXrYnPwaAkKBEALw_wcB">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=EmpyreanSupplements&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
 
   <p align="center">
     💜 Site de venda de suplementos e artigos de academia.
@@ -28,9 +35,7 @@
 
 
 ## Sobre o projeto
-Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
-
-
+Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos com uma paixão compartilhada pelo mundo fitness e o desejo de criar um site que vendesse suplementos e acessórios para academia. Cada pessoa trouxe suas próprias habilidades e experiências únicas para o projeto, mas todas foram motivadas pelo mesmo objetivo: ajudar as pessoas a atingirem suas metas de condicionamento físico e por em prática nossos conhecimentos em programação e desing. Alguns lutaram com seus próprios problemas físicos no passado e queriam fornecer aos outros os recursos e o apoio que gostariam de ter. Outros enxergaram potencial para um negócio de sucesso nesse nicho. Então, criamos um site que oferece aos clientes uma ampla variedade de produtos.
 
   <summary><h3>Tabela de conteúdos <img src="./imagens/icons8-readme-64.png" alt="Logo" height="20"> </h3></summary>
   <ol>
