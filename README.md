@@ -40,7 +40,7 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
   <summary><h3>📌 Tabela de conteúdos</h3></summary>
   <ol>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-    <li><a href="#🏆-placar-de-contribuições">Placar de contribuições</a></li>
+    <li><a href="#-placar-de-contribuições">Placar de contribuições</a></li>
     <li><a href="#layout-do-projeto-no-figma">Layout do projeto no Figma</a></li>
     <li><a href="#diagrama-do-banco-de-dados">Diagrama do banco de dados</a></li>
     <li><a href="#licença">Licença</a></li>
