@@ -20,11 +20,15 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/404jv/dev-landia/issues">Reporte algum Bug</a>
+    <a href="https://github.com/EmpyreanSupplements/SiteDaLoja/issues">Reporte algum Bug</a>
     ·
-    <a href="https://github.com/404jv/dev-landia/issues">Solicite uma funcionalidade</a>
+    <a href="https://github.com/EmpyreanSupplements/SiteDaLoja/issues">Solicite uma funcionalidade</a>
   </p>
 </div>
+
+
+## Sobre o projeto
+Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
 
 
 
