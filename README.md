@@ -75,7 +75,8 @@
 - Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout
 
 ## Diagrama do banco de dados 
-![Diagrama do dev-landia](/public/diagram.png)
+![Diagrama do dev-landia](/imagens/831335f7-c10f-4096-b239-1d60263bc283.jpg)
+![Diagrama do dev-landia](/imagens/df71e8b8-952d-40c9-8cf1-9a70d7f28b6f.jpg)
 
 ## Licença
 Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
