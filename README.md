@@ -34,13 +34,13 @@
 </div>
 
 
-## Sobre o projeto
+## 🎯 Sobre o projeto
 Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos com uma paixão compartilhada pelo mundo fitness e o desejo de criar um site que vendesse suplementos e acessórios para academia. Cada pessoa trouxe suas próprias habilidades e experiências únicas para o projeto, mas todas foram motivadas pelo mesmo objetivo: ajudar as pessoas a atingirem suas metas de condicionamento físico e por em prática nossos conhecimentos em programação e desing. Alguns lutaram com seus próprios problemas físicos no passado e queriam fornecer aos outros os recursos e o apoio que gostariam de ter. Outros enxergaram potencial para um negócio de sucesso nesse nicho. Então, criamos um site que oferece aos clientes uma ampla variedade de produtos.
 
-  <summary><h3>Tabela de conteúdos <img src="./imagens/icons8-readme-64.png" alt="Logo" height="20"> </h3></summary>
+  <summary><h3>📌 Tabela de conteúdos</h3></summary>
   <ol>
-    <li><a href="#🏆-placar-de-contribuições">Placar de contribuições</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+    <li><a href="#🏆-placar-de-contribuições">Placar de contribuições</a></li>
     <li><a href="#layout-do-projeto-no-figma">Layout do projeto no Figma</a></li>
     <li><a href="#diagrama-do-banco-de-dados">Diagrama do banco de dados</a></li>
     <li><a href="#licença">Licença</a></li>
