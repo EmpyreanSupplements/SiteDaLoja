@@ -35,7 +35,7 @@
 
 
 ## 🎯 Sobre o projeto
-Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos com uma paixão compartilhada pelo mundo fitness e o desejo de criar um site que vendesse suplementos e acessórios para academia. Cada pessoa trouxe suas próprias habilidades e experiências únicas para o projeto, mas todas foram motivadas pelo mesmo objetivo: ajudar as pessoas a atingirem suas metas de condicionamento físico e por em prática nossos conhecimentos em programação e desing. Alguns lutaram com seus próprios problemas físicos no passado e queriam fornecer aos outros os recursos e o apoio que gostariam de ter. Outros enxergaram potencial para um negócio de sucesso nesse nicho. Então, criamos um site que oferece aos clientes uma ampla variedade de produtos.
+Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos com uma paixão compartilhada pelo mundo fitness e o desejo de criar um site que vendesse suplementos e acessórios para academia. Cada pessoa trouxe suas próprias habilidades e experiências únicas para o projeto, mas todas foram motivadas pelo mesmo objetivo: ajudar as pessoas a atingirem suas metas de condicionamento físico e por em prática nossos conhecimentos em programação e design. Alguns lutaram com seus próprios problemas físicos no passado e queriam fornecer aos outros os recursos e o apoio que gostariam de ter. Outros enxergaram potencial para um negócio de sucesso nesse nicho. Então, criamos um site que oferece aos clientes uma ampla variedade de produtos.
 
   <summary><h3>📌 Tabela de conteúdos</h3></summary>
   <ol>
