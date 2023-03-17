@@ -1,0 +1,38 @@
+.fot {
+    display: flex;
+    background-color: #E7E7E7;
+}
+
+.products {
+    display: flex;
+    margin-left: 10px;
+}
+
+.cntr{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    margin: 10vh;
+    margin-top: 15px;
+}
+
+.SessaoNos {
+
+    display: flex;
+}
+
+a {
+    color: #000000;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.pe {
+    text-decoration: underline;
+}
+
+
+
+
+
+
