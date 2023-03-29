@@ -83,9 +83,12 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 ## Layout do projeto no Figma 
 - Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout
 
-## Diagrama do banco de dados 
+## Diagrama do banco de dados
 ![Diagrama do dev-landia](/imagens/831335f7-c10f-4096-b239-1d60263bc283.jpg)
 ![Diagrama do dev-landia](/imagens/df71e8b8-952d-40c9-8cf1-9a70d7f28b6f.jpg)
+
+#Modelagem do banco de dados no Figma:
+- Clique [aqui](https://www.figma.com/file/omCCJlNfZaRToq1WH5oXnN/Modelagem-L%C3%B3gica?type=design) para acessar o layout
 
 ## Licença
 Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
