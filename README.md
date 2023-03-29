@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./imagens/gif3.gif" alt="Logo" height="240">
+    <img src="/arquivos-de-imagem/readme-icons/gif-modelo-3.gif" alt="Logo" height="240">
   </a>
   
   <br>
@@ -86,8 +86,8 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 
 ## Diagrama do banco de dados
 
-![Diagrama do dev-landia](/imagens/831335f7-c10f-4096-b239-1d60263bc283.jpg)
-![Diagrama do dev-landia](/imagens/df71e8b8-952d-40c9-8cf1-9a70d7f28b6f.jpg)
+![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual.jpg)
+![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual-2.jpg)
 
 
 
