@@ -6,9 +6,9 @@ Telas de login e cadastro com banco de dados.
 
 3 - Divida dois terminais, ambos sendo PowerShell.
 
-4 - Em um terminal digite cd empyrean, cd database.
+4 - No primeiro terminal digite cd empyrean, cd database.
 
-5 - No outro digite cd empyrean.
+5 - No segundo terminal digite cd empyrean.
 
 6 - No primeiro terminal execute o comando node index.js
 
