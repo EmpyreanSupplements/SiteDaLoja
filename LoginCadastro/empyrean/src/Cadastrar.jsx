@@ -8,15 +8,19 @@ export function Cadastrar() {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
-    function register(e) {
-        e.preventDefault();
-        fetch('http://localhost:4000/registro', {
-            method: 'POST',
-            body: JSON.stringify({username, email, password}),
-            headers: {'Content-Type':'application/json'}
-        })
+    async function register(ev) {
+      ev.preventDefault();
+      const response = await fetch('http://localhost:4000/registro', {
+        method: 'POST',
+        body: JSON.stringify({username, email, password}),
+        headers: {'Content-Type':'application/json'},
+      });
+      if (response.status === 200) {
+        alert('Registro completo');
+      } else {
+        alert('Falha no cadastro');
+      }
     }
-
   return (
     <div className="container">
     <header className="header">
