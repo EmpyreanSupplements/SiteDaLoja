@@ -1,34 +1,33 @@
 import logo from "./assets/logo.svg";
 import { Link } from "react-router-dom"
 import "./global.css";
+import { useState } from 'react';
 
 export function Login() {
-  const [values, setValues] = useState();
-  console.log(values);
-  const handleChangeValues = (value) => {
-    setValues((prevValue) => ({
-      ...prevValue,
-      [value.target.name]:value.target.value,
-    }));
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+
+  async function login(e) {
+    e.preventDefault();
+    const response = await fetch('http://localhost:4000/login', {
+      method: 'POST',
+      body: JSON.stringify({email, password}),
+      headers: {'Content-Type':'application/json'},
+      credentials: 'include',
+  });
+
+    if (response.ok) {
+      alert('Você fez login!')
+    } else {
+      alert('Credenciais inválidas!');
+    }
   }
-
-  const handleClickButton = () => {
-    Axios.post("http:localhost:3000/Cadastro", {
-      username: values.username,
-      email: values.email,
-      password: values.password,
-    }).then((response) => {
-      console.log(response);
-    })
-  }
-
-
   return <div className="container">
     <header className="header">
       <img src={logo} alt="LogoEmpresa" />
     </header>
 
-    <form>
+    <form onSubmit={login}>
 
       <div className="inputContainer">
         <label htmlFor="email">Email</label>
@@ -37,7 +36,8 @@ export function Login() {
         name="email" 
         id="email"
         placeholder="insira o Email"
-        onChange={handleChangeValues}
+        value={email}
+        onChange={(e) => setEmail(e.target.value)}
         />
       </div>
 
@@ -48,13 +48,14 @@ export function Login() {
         name="password" 
         id="password"
         placeholder="*****"
-        onChange={handleChangeValues}
+        value={password}
+        onChange={(e) => setPassword(e.target.value)}
         />
       </div>
 
       <a href="">Esqueceu sua senha?</a>
 
-      <button className="button" onClick={handleClickButton}>
+      <button className="button">
         Fazer login
       </button>
 
@@ -64,6 +65,5 @@ export function Login() {
       </div>
     </form>
   </div>
-}
-
+  }
 export default Login

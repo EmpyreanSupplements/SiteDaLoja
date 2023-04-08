@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./imagens/gif3.gif" alt="Logo" height="240">
+    <img src="/arquivos-de-imagem/readme-icons/gif-modelo-3.gif" alt="Logo" height="240">
   </a>
   
   <br>
@@ -80,12 +80,16 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 </div>
 
 
-## Layout do projeto no Figma 
-- Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout
+## Links importantes para a construção do nosso projeto:
+- Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout do site
+- Clique [aqui](https://www.figma.com/file/omCCJlNfZaRToq1WH5oXnN/Modelagem-L%C3%B3gica?type=design) para acessar a modelagem do banco de dados do site
 
-## Diagrama do banco de dados 
-![Diagrama do dev-landia](/imagens/831335f7-c10f-4096-b239-1d60263bc283.jpg)
-![Diagrama do dev-landia](/imagens/df71e8b8-952d-40c9-8cf1-9a70d7f28b6f.jpg)
+## Diagrama do banco de dados
+
+![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual.jpg)
+![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual-2.jpg)
+
+
 
 ## Licença
 Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
