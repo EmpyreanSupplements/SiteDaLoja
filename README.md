@@ -52,7 +52,6 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
         <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#autores">Autores</a></li>
   </ol>
   
   
