@@ -41,7 +41,7 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
   <ol>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li><a href="#-placar-de-contribuições">Placar de contribuições</a></li>
-    <li><a href="#links-importantes-para-a-construção-do-nosso-projeto:">Layout do projeto no Figma</a></li>
+    <li><a href="#links-importantes-para-a-construção-do-nosso-projeto:">Links importantes para a construção do nosso projeto</a></li>
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contribuições">Contribuições</a></li>
     <li>
