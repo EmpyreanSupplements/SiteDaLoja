@@ -71,11 +71,11 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 
   | Pessoa | Issues fechadas |
   |:------:|:--------------:|
-  | <img src="https://avatars.githubusercontent.com/u/126180307?v=4" width="100px;" alt="Foto do João Vitor Lima"/> <br/> <a href="https://github.com/jvolima">Carlos Eduardo</a> | 0 |
-  <img src="https://avatars.githubusercontent.com/u/101457639?v=4" width="100px;" alt="Foto do João Victor Ramalho"/> <br/> <a href="https://github.com/404jv">Esther Torres</a> | 0 |
-  | <img src="https://avatars.githubusercontent.com/u/89097348?v=4" width="100px;" alt="Foto do Ruan Pablo" /> <br/> <a href="https://github.com/1SyuLi">Giovana Joice</a> | 0 |
-  <img src="https://avatars.githubusercontent.com/u/126831212?v=4" width="100px;" alt="Foto do João Victor Ramalho"/> <br/> <a href="https://github.com/alqui290">Rubens Barcelos</a> | 0 |
-  | <img src="https://avatars.githubusercontent.com/u/115374703?v=4" width="100px;" alt="Foto do João Vitor Lima"/> <br/> <a href="https://github.com/jvolima">Zion Gabriel</a> | 0 |
+  | <img src="https://avatars.githubusercontent.com/u/126180307?v=4" width="100px;" alt="Foto do João Vitor Lima"/> <br/> <a href="https://github.com/cadumaia">Carlos Eduardo</a> | 0 |
+  <img src="https://avatars.githubusercontent.com/u/101457639?v=4" width="100px;" alt="Foto do João Victor Ramalho"/> <br/> <a href="https://github.com/stetetstst">Esther Torres</a> | 0 |
+  | <img src="https://avatars.githubusercontent.com/u/89097348?v=4" width="100px;" alt="Foto do Ruan Pablo" /> <br/> <a href="https://github.com/GiovanaJoice">Giovana Joice</a> | 0 |
+  <img src="https://avatars.githubusercontent.com/u/126831212?v=4" width="100px;" alt="Foto do João Victor Ramalho"/> <br/> <a href="https://github.com/rubensspy1">Rubens Barcelos</a> | 0 |
+  | <img src="https://avatars.githubusercontent.com/u/115374703?v=4" width="100px;" alt="Foto do João Vitor Lima"/> <br/> <a href="https://github.com/Zinvx">Zion Gabriel</a> | 0 |
 
 </div>
 
@@ -83,11 +83,6 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 ## Links importantes para a construção do nosso projeto:
 - Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout do site
 - Clique [aqui](https://www.figma.com/file/omCCJlNfZaRToq1WH5oXnN/Modelagem-L%C3%B3gica?type=design) para acessar a modelagem do banco de dados do site
-
-## Diagrama do banco de dados
-
-![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual.jpg)
-![Diagrama do dev-landia](/arquivos-de-imagem/informacoes-do-projeto/modelagem-conceitual-2.jpg)
 
 
 
@@ -116,93 +111,4 @@ git clone https://github.com/EmpyreanSupplements/SiteDaLoja.git
 ```
 
 Abra o arquivo.
-
-
-## Autores
-  <!-- Autor 1 -->
-<a href="https://github.com/cadumaia">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126180307?v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Carlos Eduardo</b></sub></a> <a href="https://github.com/cadumaia" title="Rocketseat">🚀</a>
-
-
-👋🏽 Entre em contato!
-
-<a href="https://instagram.com/caduumaia?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/carlos-eduardo-maia-damasceno-06aa85267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:carlos.eduardo.maia07@aluno.ifce.edu.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
-  
-  <br>
-  
-  <!-- Autor 2 -->
-  <a href="https://github.com/stetetstst">
-   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101457639?v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Esther Torres</b></sub></a> <a href="https://github.com/stetetstst" title="Rocketseat">🚀</a>
-
-
-
-👋🏽 Entre em contato!
-
-<a href="https://instagram.com/_etshwr?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/esther-oliveira-torres-68489a265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:
-esther.oliveira.torres09@aluno.ifce.edu.br
-" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
-
-
-<br>
-  <!-- Autor 3 -->
-  <a href="https://github.com/GiovanaJoice">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89097348?v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Giovana Joice</b></sub></a> <a href="https://github.com/GiovanaJoice" title="Rocketseat">🚀</a>
-
-
-👋🏽 Entre em contato!
-
-<a href="https://instagram.com/giiovanajoice" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovana-joice-2915831b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:giovana.joice.costa10@aluno.ifce.edu.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
-   
-   <!-- Autor 4 -->
-<a href="https://github.com/rubensspy1">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126831212?v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Rubens Barcelos</b></sub></a> <a href="https://github.com/rubensspy1" title="Rocketseat">🚀</a>
-
-
-👋🏽 Entre em contato!
-
-<a href="https://instagram.com/rubenslucien1?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rubens-barcelos-0520a5266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:rubens.barcelos.queiroz08@aluno.ifce.edu.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
-  
-  <br>
-  
-  <!-- Autor 5 -->
-<a href="https://github.com/Zinvx">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/115374703?v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Zion Gabriel</b></sub></a> <a href="https://github.com/Zinvx" title="Rocketseat">🚀</a>
-
-
-👋🏽 Entre em contato!
-
-<a href="https://instagram.com/ziongabrie.l?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zion-gabriel-santos-de-lima-134890267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:zion.gabriel.santos09@aluno.ifce.edu.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
-  
-  <br>
-
-<!-- Profile Views -->
-
-<div align="center">
-  
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=EmpyreanSuplemments&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-  </p>
-  
-</div>
-
-
 
