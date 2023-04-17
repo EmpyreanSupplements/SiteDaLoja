@@ -41,8 +41,7 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
   <ol>
     <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
     <li><a href="#-placar-de-contribuições">Placar de contribuições</a></li>
-    <li><a href="#layout-do-projeto-no-figma">Layout do projeto no Figma</a></li>
-    <li><a href="#diagrama-do-banco-de-dados">Diagrama do banco de dados</a></li>
+    <li><a href="#links-importantes-para-a-construção-do-nosso-projeto:">Layout do projeto no Figma</a></li>
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contribuições">Contribuições</a></li>
     <li>
@@ -79,7 +78,7 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 </div>
 
 
-## Links importantes para a construção do nosso projeto:
+## Links importantes para a construção do nosso projeto
 - Clique [aqui](https://www.figma.com/file/5VQWui61PgbZQvWY7O4E4E/Empyrean?node-id=0%3A1&t=TKP0XoYkQ155EPaF-0) para acessar o layout do site
 - Clique [aqui](https://www.figma.com/file/omCCJlNfZaRToq1WH5oXnN/Modelagem-L%C3%B3gica?type=design) para acessar a modelagem do banco de dados do site
 
