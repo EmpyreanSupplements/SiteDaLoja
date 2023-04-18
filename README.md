@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://img.shields.io/github/issues/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
