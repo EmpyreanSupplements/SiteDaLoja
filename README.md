@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/arquivos-de-imagem/readme-icons/gif-modelo-3.gif" alt="Logo" height="240">
+    <img src="/ReadmeProjeto/gif-modelo-3.gif" alt="Logo" height="240">
   </a>
   
   <br>

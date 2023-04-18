@@ -1,0 +1,22 @@
+
+
+.b {
+    background-color: #B79BF2 !important;  
+    color: black !important;
+}
+
+.c {
+    color: #B79BF2 !important;
+    text-shadow:#ABEEF1 1px 1px 1px !important;
+}
+
+.Nav{
+    background-color: #0D0D0D;
+    width: 100%;
+    min-height: 100%;
+}
+
+.logo{
+    width: 12% !important; 
+}
+
