@@ -1,3 +1,5 @@
+import './Footer.css';
+
 function Footer() {
     return (
    <footer className="bg-light text-white pt-5 pb-4">

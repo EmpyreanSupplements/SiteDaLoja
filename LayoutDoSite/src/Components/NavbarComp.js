@@ -12,7 +12,7 @@ function NavbarComp() {
         {['md'].map((expand) => (
           <Navbar key={expand} variant={"dark"} expand={expand} className="Nav">
             <Container fluid>
-              <img src="Logo.svg" alt='logo' className='logo'/>
+              <img src="logoemgif.gif" alt='logo' className='logo'/>
               <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
               <Navbar.Offcanvas
                 id={`offcanvasNavbar-expand-${expand}`}
@@ -28,7 +28,7 @@ function NavbarComp() {
                   <Nav className="justify-content-end flex-grow-1 pe-3">
                     <Nav.Link className='c' href="/">Home</Nav.Link>
                     <Nav.Link className='c' href="/Carrinho">Carrinho</Nav.Link>
-                    <Nav.Link className='c' href="/Cadastro">Fazer cadastro</Nav.Link>
+                    <Nav.Link className='c' href="/Cadastro">Cadastre-se</Nav.Link>
                   </Nav>
                   <Form className="d-flex">
                     <Form.Control
@@ -38,11 +38,13 @@ function NavbarComp() {
                       aria-label="Search"
                     />
                     <Button className='b'>Search</Button>
+                    
                   </Form>
                 </Offcanvas.Body>
               </Navbar.Offcanvas>
             </Container>
           </Navbar>
+          
         ))}
       </>
   );
