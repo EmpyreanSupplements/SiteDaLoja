@@ -26,9 +26,9 @@
 
 ![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
 
-<img src="/ReadmeProjeto/pastversions1" alt="Logo" height="">
-<img src="/ReadmeProjeto/pastversions2" alt="Logo" height="">
-<img src="/ReadmeProjeto/pastversions3" alt="Logo" height="">
+<img src="/ReadmeProjeto/pastversions1.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/pastversions2.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/pastversions3.PNG" alt="Logo" height="">
 
 ![Badge](https://img.shields.io/badge/BD-Modelagem-blueviolet)
 
