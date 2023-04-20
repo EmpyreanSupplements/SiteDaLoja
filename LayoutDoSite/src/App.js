@@ -42,7 +42,7 @@ function App() {
       <Card.Body>
         <Card.Title>WHEY PROTEIN ISOLATE</Card.Title>
         <Card.Text>
-        fornece 27g de Whey Protein Isolado por porção,  obtido através do processo de filtragem por membranas.
+        Fornece 27g de Whey Protein Isolado por porção,  obtido através do processo de filtragem por membranas.
         </Card.Text>
         <h3>R$369,90</h3>
         <Button href='/Carrinho' variant="primary">Comprar</Button>

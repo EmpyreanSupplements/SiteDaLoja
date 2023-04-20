@@ -8,3 +8,16 @@
     font-size: 100% !important;
 
 }
+
+.text-decoration-none{
+    color: rgb(49, 36, 192) !important;
+}
+
+.list-group {
+    --bs-list-group-border-color: rgb(255, 255, 255) !important;
+    
+}
+
+hr{
+    color: rgb(167, 167, 167) !important;
+}
