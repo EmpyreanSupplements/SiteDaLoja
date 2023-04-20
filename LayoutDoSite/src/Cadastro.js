@@ -1,6 +1,6 @@
 import NavbarComp from "./Components/NavbarComp";
 import Footer from "./Components/Footer";
-
+import './Cadastro.css';
 
 function Cadastro() {
 return (   
@@ -11,7 +11,7 @@ return (
    
             <div class="container" text-align="center">
                 <h1 class="align-items-sm-center"> Cadastro</h1>
-                <h1>Informe seus dados, por favor</h1>
+                <h2 class="subtitleCadastro">Informe seus dados, por favor</h2>
             
                 <form class="mt-3">
                     <div class="row">
@@ -85,22 +85,21 @@ return (
                         </div>
                     </div>
                     <hr />
-                    <div class="form-check mb-3">
+                    <div class="form-check mb-3" id="divDesejo">
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"/>
                         <label class="form-check-label" for="flexCheckDefault">
                             Desejo receber informações sobre promoções.
                         </label>
                     </div>
-                    <div class="mb-3 text-left">
+                    <div class="mb-3 text-left" id="divConfirmar">
                         <a class="btn btn-lg btn-light btn-outline-danger" href="/">Cancelar</a>
                         <input type="button" value="Criar meu cadastro" class="btn btn-lg btn-danger"
                             onclick="window.location.href='/confirmarcadastro.html'" />
                     </div>
+
                 </form>
             </div>
         
-
-
 
 
 

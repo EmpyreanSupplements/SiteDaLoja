@@ -23,9 +23,9 @@ function Footer() {
             </div>
             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                 <h5 className="text-uppercase mb-4 font-weight-bold text-dark">Contato</h5>
-                <p><a href="mailto:agentavery@sample.com" className="text-dark">Email da empresa</a></p>
-                <p><a href="https://github.com/EmpyreanSupplements" className="text-dark">Github</a></p>
-                <p><a href="#" className="text-dark">Desenvolvedores</a></p>
+                <p><a href="mailto:agentavery@sample.com" className="text-dark"> <img src="https://img.icons8.com/fluency/48/null/apple-mail.png" width="50px"/>Email da empresa</a></p>
+                <p><a href="https://github.com/EmpyreanSupplements" className="text-dark"> <img src="https://img.icons8.com/fluency/48/null/github.png" width="50px"/>Github</a></p>
+                <p><a href="#" className="text-dark"> <img src="developers.png" width="40px"/>Desenvolvedores</a></p>
             </div>
         </div>
 
