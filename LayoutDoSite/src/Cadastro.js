@@ -10,7 +10,7 @@ return (
 
    
             <div class="container" text-align="center">
-                <h1 class="align-items-sm-center">Cadastro</h1>
+                <h1 class="align-items-sm-center"> Cadastro</h1>
                 <h1>Informe seus dados, por favor</h1>
             
                 <form class="mt-3">

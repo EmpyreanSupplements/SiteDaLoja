@@ -33,3 +33,6 @@
     color: aliceblue !important;
 }
 
+.btn{
+    --bs-btn-padding-y: 0.36rem !important
+}

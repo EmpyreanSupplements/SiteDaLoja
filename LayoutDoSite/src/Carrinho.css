@@ -22,7 +22,7 @@ hr{
     color: rgb(167, 167, 167) !important;
 }
 
-h1{
+.titleCar{
     padding-top: 3%;
     font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
     text-align: center;
