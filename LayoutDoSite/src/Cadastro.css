@@ -1,0 +1,19 @@
+.align-items-sm-center{
+    padding-top: 3%;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    text-align: center;
+    color: rgba(54, 9, 95, 0.708);
+}
+
+.subtitleCadastro{
+    padding-top: 3%;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    text-align:left;
+    color: rgba(54, 9, 95, 0.708);
+}
+
+legend{
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif !important; 
+    text-align:left !important;
+    color: rgba(54, 9, 95, 0.708) !important;
+}

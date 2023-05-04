@@ -1,0 +1,44 @@
+.iimg-thumbnail{
+    max-width: 20% !important;
+}
+
+.list-group-item{
+    font-weight: bold !important;
+    font-size:large !important;
+    font-size: 100% !important;
+
+}
+
+.text-decoration-none{
+    color: rgb(49, 36, 192) !important;
+}
+
+.list-group {
+    --bs-list-group-border-color: rgb(255, 255, 255) !important;
+    
+}
+
+hr{
+    color: rgb(167, 167, 167) !important;
+}
+
+.titleCar{
+    padding-top: 3%;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    text-align: center;
+    color: rgba(54, 9, 95, 0.708);
+}
+
+.btn-outline-success{
+    --bs-btn-color: rgba(12, 12, 152, 0.818) !important;
+    --bs-btn-border-color: #dae5e0b5 !important;
+    --bs-btn-hover-bg: rgba(155, 73, 222, 0.759) !important;
+    --bs-btn-hover-border-color: (0) !important;
+}
+
+.btn-danger{
+    --bs-btn-bg: purple !important;
+    --bs-btn-hover-bg: rgb(114, 1, 114) !important;
+    --bs-btn-border-color: #dae5e0b5 !important;
+    --bs-btn-hover-border-color: (0) !important;
+}
