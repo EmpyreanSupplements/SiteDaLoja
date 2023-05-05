@@ -10,6 +10,7 @@ import { getAuth } from "firebase/auth";
 const firebaseConfig = {
   apiKey: "AIzaSyBeAV3SjjBfDMp2NluOfIlpqPsPoNFvCZE",
   authDomain: "empyreansupplements.firebaseapp.com",
+  projectId: "empyreansupplements",
   storageBucket: "empyreansupplements.appspot.com",
   messagingSenderId: "677673543186",
   appId: "1:677673543186:web:f956d1dca9b81aa3b19acb"
