@@ -1,8 +1,27 @@
 import NavbarComp from "./Components/NavbarComp";
 import Footer from "./Components/Footer";
 import './Cadastro.css';
+import { useState } from "react";
+import { createUserWithEmailAndPassword } from "firebase/auth";
+import { auth } from "./firebase";
+import { Link, useNavigate } from "react-router-dom"
+export function Cadastro() {
+    const [email, setEmail] = useState(null);
+    const [password, setPassword] = useState(null);
+    const navigate = useNavigate();
 
-function Cadastro() {
+    async function Cadastrar (e) {
+        e.preventDefault();
+        const response = createUserWithEmailAndPassword( auth, email, password)
+        .then((userCredential) => {
+            console.log(userCredential);
+            navigate("/");
+        })
+        .catch((error) => {
+            console.log(error);
+        });
+    };
+
 return (   
     <>
     <NavbarComp />
@@ -13,7 +32,7 @@ return (
                 <h1 class="align-items-sm-center"> Cadastro</h1>
                 <h2 class="subtitleCadastro">Informe seus dados, por favor</h2>
             
-                <form class="mt-3">
+                <form class="mt-3" onSubmit={Cadastrar}>
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
                             <fieldset class="row gx-3">
@@ -37,7 +56,7 @@ return (
                             <fieldset>
                                 <legend>Contatos</legend>
                                 <div class="form-floating mb-3 col-md-8">
-                                    <input class="form-control" type="email" id="txtEmail" placeholder=" " />
+                                    <input class="form-control" type="email" id="txtEmail" placeholder=" " value={email} onChange={(e) => setEmail(e.target.value)} />
                                     <label for="txtEmail">E-mail</label>
                                 </div>
                                 <div class="form-floating mb-3 col-md-6">
@@ -74,7 +93,7 @@ return (
                             <fieldset class="row gx-3">
                                 <legend>Senha de Acesso</legend>
                                 <div class="form-floating mb-3 col-lg-6">
-                                    <input class="form-control" type="password" id="txtSenha" placeholder=" " />
+                                    <input class="form-control" type="password" id="txtSenha" placeholder=" " value={password} onChange={(e) => setPassword(e.target.value)} />
                                     <label for="txtSenha">Senha</label>
                                 </div>
                                 <div class="form-floating mb-3 col-lg-6">
@@ -93,8 +112,7 @@ return (
                     </div>
                     <div class="mb-3 text-left" id="divConfirmar">
                         <a class="btn btn-lg btn-light btn-outline-danger" href="/">Cancelar</a>
-                        <input type="button" value="Criar meu cadastro" class="btn btn-lg btn-danger"
-                            onclick="window.location.href='/confirmarcadastro.html'" />
+                        <button type="submit" value="Criar meu cadastro" class="btn btn-lg btn-danger"/>
                     </div>
 
                 </form>
