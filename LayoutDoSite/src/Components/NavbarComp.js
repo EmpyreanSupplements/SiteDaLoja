@@ -12,7 +12,7 @@ function NavbarComp() {
         {['md'].map((expand) => (
           <Navbar key={expand} variant={"dark"} expand={expand} className="Nav">
             <Container fluid>
-              <img src="logoemgif.gif" alt='logo' className='logo' width="60px" height="80px"/>
+              <img src="logoemgif.gif" alt='logo' className='logo'/>
               <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
               <Navbar.Offcanvas
                 id={`offcanvasNavbar-expand-${expand}`}

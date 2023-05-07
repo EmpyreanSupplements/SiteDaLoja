@@ -21,7 +21,8 @@
 }
 
 .logo{
-    width: 12% !important; 
+    min-width: 6rem !important; 
+    max-width: 12% !important; 
 }
 
 .me-2{
