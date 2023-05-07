@@ -23,6 +23,7 @@
 .logo{
     min-width: 6rem !important; 
     max-width: 12% !important; 
+    margin-right: 25%;
 }
 
 .me-2{
@@ -39,3 +40,20 @@
     --bs-btn-padding-y: 0.36rem !important
 }
 
+.form-inline{
+    align-items: center !important;
+    
+}
+
+.offcanvas-header, .offcanvas-body{
+    background-color: #0D0D0D !important;
+}
+
+.h5, h5{
+    color: #879dff !important;
+    text-shadow:#ABEEF1 1px 1px 1px !important;
+}
+
+.form-control{
+    width: 16rem !important;
+}
