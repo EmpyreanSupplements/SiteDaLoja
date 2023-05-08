@@ -1,3 +1,7 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
+
 import NavbarComp from './Components/NavbarComp';
 import Footer from './Components/Footer';
 import './Carrinho.css';
@@ -250,7 +254,58 @@ return (
 </div>
 
 
+<h1 class='SubtitleCarrinho'>APROVEITE E LEVE MAIS...  </h1> 
 
+
+<div className="container">
+    <div className='row col-md-12'>
+      <Card className="m-3"style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="whey1.png" />
+      <Card.Body>
+        <Card.Title>WHEY PROTEIN ISOLATE</Card.Title>
+        <Card.Text>
+        Fornece 27g de Whey Protein Isolado por porção,  obtido através do processo de filtragem por membranas.
+        </Card.Text>
+        <h3>R$369,90</h3>
+        <Button href='/Carrinho' variant="primary">Comprar</Button>
+      </Card.Body>
+    </Card>
+    <Card className="m-3"style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="whey2.webp" />
+      <Card.Body>
+        <Card.Title>WHEY BLEND 900g</Card.Title>
+        <Card.Text>
+        Produto de alto valor biológico que pode ser utilizado para as mais diversas finalidades e objetivos.
+        </Card.Text>
+        <h3>R$139,00</h3>
+        <Button href='/Carrinho' variant="primary">Comprar</Button>
+      </Card.Body>
+    </Card>
+    <Card className="m-3"style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="creatina1.webp" />
+      <Card.Body>
+        <Card.Title>CREATINE TURBO</Card.Title>
+        <Card.Text>
+        Apoia o ganho de massa e a conclusão dos treinos mantendo a qualidade de suas repetições.
+        </Card.Text>
+        <h3>R$89,90</h3>
+        <Button href='/Carrinho' variant="primary">Comprar</Button>
+      </Card.Body>
+    </Card>
+    <Card className="m-3"style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="creatina2.webp" />
+      <Card.Body>
+        <Card.Title>CREATINA HARDCORE</Card.Title>
+        <Card.Text>
+        Ajuda a hidratar a musculatura enquanto você malha, promovendo o aumento, força e firmeza.
+        </Card.Text>
+        <h3>R$174,99</h3>
+        <Button href='/Carrinho' variant="primary">Comprar</Button>
+      </Card.Body>
+    </Card>
+    </div>
+  </div>
+  <br></br>
 
 
 <Footer/>
