@@ -219,15 +219,17 @@ return (
         <h4 class="text-dark mb-3" id="titleResumo">RESUMO DO PEDIDO</h4>
 
         <br></br><br></br>
-        <p>Quantidade de produtos: 
+        <p>Quantidade de produtos:ㅤ
            <a class="QntdDeProdutos">4</a>
         </p>
 
-        <p>Frete: 4</p>
+        <p>Frete:ㅤR$
+           <a class="ValorDoFrete">100,00</a>
+        </p>
 
         <p>Produtos:<br></br>
             <h6 class="produtosNoResumo">
-                4X   WHEY PROTEIN ISOLATE <br></br>
+            4X   WHEY PROTEIN ISOLATE <br></br>
                 4X   WHEY BLEND 900g <br></br>
                 4X   CREATINE TURBO <br></br>
                 4X   CREATINA HARDCORE <br></br>

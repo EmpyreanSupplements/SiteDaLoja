@@ -116,7 +116,7 @@ hr{
 
 }
 
-.QntdDeProdutos,.produtosNoResumo{
+.QntdDeProdutos,.produtosNoResumo, .ValorDoFrete{
     color: black;
     text-decoration: none;
     font-weight: 200;
@@ -126,7 +126,7 @@ p{
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     text-transform: uppercase;
-    letter-spacing: 2.5px;
+    letter-spacing: 2px;
     font-weight: 600;
     color: #000; 
 }
