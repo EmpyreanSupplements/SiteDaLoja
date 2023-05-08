@@ -18,8 +18,10 @@ return (
     </div>
 </div>
 
-
 <div class="container">
+  <div class="row align-items-start">
+    <div class="col">
+    <div class="container">
     <ul class="list-group mb-3">
         <li class="list-group-item py-3">
         <div class="row g-3">
@@ -210,6 +212,31 @@ return (
         </li>
     </ul>
 </div>
+    </div>
+    
+    <div class="col" id="col2">
+        <h4 class="text-dark mb-3" id="titleResumo">RESUMO DO PEDIDO</h4>
+        <p>Quantidade de produtos:                    4</p>
+        <p>Frete:                    4</p>
+        <p>Produtos: <br></br>
+        4X   WHEY PROTEIN ISOLATE <br></br>
+        4X   WHEY BLEND 900g <br></br>
+        4X   CREATINE TURBO <br></br>
+        4X   CREATINA HARDCORE <br></br>
+        </p>
+        <hr class="hrResumo"/>
+        <h5>Total: R$ 980,00</h5>
+        <a href="/index.html" class="btn btn-outline-success btn-lg">
+                Continuar Comprando                            
+            </a>
+        <a href="/fechamento_itens.html" class="btn btn-danger btn-lg ms-2 mt-xs-3">Finalizar Compra</a>
+      
+    </div>
+  </div>
+</div>
+
+
+
 
 
 <Footer/>

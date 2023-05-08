@@ -20,7 +20,7 @@ function NavbarComp() {
                 placement="end"
               >
                 <Offcanvas.Header closeButton>
-                  <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
+                  <Offcanvas.Title class="titleNavBarDropDanw" id={`offcanvasNavbarLabel-expand-${expand}`}>
                     EMPYREAN SUPPLEMENTS
                   </Offcanvas.Title>
                 </Offcanvas.Header>
