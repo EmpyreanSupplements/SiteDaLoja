@@ -45,7 +45,7 @@ return (
             </div>
             <div
                 class="col-6 offset-6 col-sm-6 offset-sm-6 col-md-4 offset-md-8 col-lg-3 offset-lg-0 col-xl-2 align-self-center mt-3">
-                <div class="input-group">
+                <div class="input-group" id="ajusteDeQuantidade">
                     <button class="btn btn-outline-dark btn-sm" type="button">
                         <i class="bi-caret-down" font-size="16px" line-height="16px"> 
                             <img src="plus-lg.svg"/>
@@ -223,15 +223,15 @@ return (
         <h4 class="text-dark mb-3" id="titleResumo">RESUMO DO PEDIDO</h4>
 
         <br></br><br></br>
-        <p>Quantidade de produtos:ㅤ
+        <p class="paragrafosDoResumo">Quantidade de produtos:ㅤ
            <a class="QntdDeProdutos">4</a>
         </p>
 
-        <p>Frete:ㅤR$
+        <p class="paragrafosDoResumo">Frete:ㅤR$
            <a class="ValorDoFrete">100,00</a>
         </p>
 
-        <p>Produtos:<br></br>
+        <p class="paragrafosDoResumo">Produtos:<br></br>
             <h6 class="produtosNoResumo">
             4X   WHEY PROTEIN ISOLATE <br></br>
                 4X   WHEY BLEND 900g <br></br>
@@ -242,7 +242,7 @@ return (
 
         <hr class="hrResumo"/>
 
-        <h5>Total: R$ 980,00</h5>
+        <h5 class="paragrafosDoResumo"> Total: R$ 980,00</h5>
 
             <div class="containerButtons">
                 <a href="/index.html" class="btn btn-outline-success btn-lg">Continuar Comprando</a>
