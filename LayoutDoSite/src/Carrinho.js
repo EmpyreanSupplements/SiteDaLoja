@@ -203,6 +203,8 @@ return (
         </div>
     </li>
     <hr/>
+
+
         <li class="list-group-item py-3">
             <div class="text-end">
                 <h4 class="text-dark mb-3">
@@ -215,6 +217,8 @@ return (
 
             </div>
         </li>
+
+        
     </ul>
 </div>
     </div>
@@ -233,7 +237,7 @@ return (
 
         <p class="paragrafosDoResumo">Produtos:<br></br>
             <h6 class="produtosNoResumo">
-            4X   WHEY PROTEIN ISOLATE <br></br>
+                4X   WHEY PROTEIN ISOLATE <br></br>
                 4X   WHEY BLEND 900g <br></br>
                 4X   CREATINE TURBO <br></br>
                 4X   CREATINA HARDCORE <br></br>
