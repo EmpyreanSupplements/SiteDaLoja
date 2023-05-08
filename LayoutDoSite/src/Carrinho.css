@@ -7,7 +7,7 @@
 
 #col2{
     margin-top: 50px !important;
-    background: rgb(223, 223, 223)!important;
+    background: rgb(242, 242, 242)!important;
     max-width: 30% !important;
     border-radius: 6px !important;
     margin-left: 1rem !important;
@@ -23,6 +23,11 @@
 #titleResumo{
     padding-top: 30px !important;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+    color: #000; 
 }
 
 .iimg-thumbnail{
@@ -56,17 +61,72 @@ hr{
     color: rgba(54, 9, 95, 0.708);
 }
 
-.btn-outline-success{
-    background: rgb(177, 165, 255) !important;
-    --bs-btn-color: rgba(12, 12, 152, 0.818) !important;
-    --bs-btn-border-color: #dae5e0b5 !important;
-    --bs-btn-hover-bg: rgba(155, 73, 222, 0.759) !important;
-    --bs-btn-hover-border-color: (0) !important;
+.btn-outline-success{  
+    --bs-btn-hover-bg: rgb(177, 165, 255) !important;
+    width: 140px;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #d1d1d1;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 0.7rem;
+    align-items: center;
 }
 
 .btn-danger{
-    --bs-btn-bg: purple !important;
-    --bs-btn-hover-bg: rgb(114, 1, 114) !important;
-    --bs-btn-border-color: #dae5e0b5 !important;
-    --bs-btn-hover-border-color: (0) !important;
+    --bs-btn-hover-bg: rgb(118, 64, 255) !important;
+    width: 170px;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: rgb(155, 108, 203);
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 0.7rem;
+}
+
+.containerButtons{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.produtosNoResumo{
+    text-align: ri;
+    text-indent: 7px;
+    padding-top: 10px;
+
+}
+
+.QntdDeProdutos,.produtosNoResumo{
+    color: black;
+    text-decoration: none;
+    font-weight: 200;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    color: #000; 
 }

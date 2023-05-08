@@ -199,15 +199,16 @@ return (
         </div>
     </li>
     <hr/>
-    <li class="list-group-item py-3">
-        <div class="text-end">
-            <h4 class="text-dark mb-3">
-                Valor Total: R$ 63,84
-            </h4>
-            <a href="/index.html" class="btn btn-outline-success btn-lg">
-                Continuar Comprando                            
-            </a>
-            <a href="/fechamento_itens.html" class="btn btn-danger btn-lg ms-2 mt-xs-3">Finalizar Compra</a>
+        <li class="list-group-item py-3">
+            <div class="text-end">
+                <h4 class="text-dark mb-3">
+                    Valor Total: R$ 63,84
+                </h4>
+                
+                    <a href="/index.html" class="btn btn-outline-success btn-lg">Continuar Comprando</a>
+                    <a href="/fechamento_itens.html" class="btn btn-danger btn-lg ms-2 mt-xs-3">Finalizar Compra</a>
+                
+
             </div>
         </li>
     </ul>
@@ -216,20 +217,31 @@ return (
     
     <div class="col" id="col2">
         <h4 class="text-dark mb-3" id="titleResumo">RESUMO DO PEDIDO</h4>
-        <p>Quantidade de produtos:                    4</p>
-        <p>Frete:                    4</p>
-        <p>Produtos: <br></br>
-        4X   WHEY PROTEIN ISOLATE <br></br>
-        4X   WHEY BLEND 900g <br></br>
-        4X   CREATINE TURBO <br></br>
-        4X   CREATINA HARDCORE <br></br>
+
+        <br></br><br></br>
+        <p>Quantidade de produtos: 
+           <a class="QntdDeProdutos">4</a>
         </p>
+
+        <p>Frete: 4</p>
+
+        <p>Produtos:<br></br>
+            <h6 class="produtosNoResumo">
+                4X   WHEY PROTEIN ISOLATE <br></br>
+                4X   WHEY BLEND 900g <br></br>
+                4X   CREATINE TURBO <br></br>
+                4X   CREATINA HARDCORE <br></br>
+            </h6>
+        </p>
+
         <hr class="hrResumo"/>
+
         <h5>Total: R$ 980,00</h5>
-        <a href="/index.html" class="btn btn-outline-success btn-lg">
-                Continuar Comprando                            
-            </a>
-        <a href="/fechamento_itens.html" class="btn btn-danger btn-lg ms-2 mt-xs-3">Finalizar Compra</a>
+
+            <div class="containerButtons">
+                <a href="/index.html" class="btn btn-outline-success btn-lg">Continuar Comprando</a>
+                <a href="/fechamento_itens.html" class="btn btn-danger btn-lg ms-2 mt-xs-3">Finalizar Compra</a>
+            </div>
       
     </div>
   </div>
