@@ -19,13 +19,26 @@ return (
         Coluna 1*
 
             <div class="list-group w-25 p-3">
-                <button id="btnPerfil" onclick="window.location.href = 'http://pt.stackoverflow.com'" type="button" class="list-group-item list-group-item-action active">
+                <a id="btnPerfil" href='/Carrinho'><button  href='/Carrinho' type="button" class="list-group-item list-group-item-action active">
                     Meus dados
                 </button>
-                <a href="/Home"><button type="button" class="list-group-item list-group-item-action">Meus pedidos</button></a>
-                <button id="btnPerfil" type="button" class="list-group-item list-group-item-action">Endereços de entrega</button>
-                <button id="btnPerfil" type="button" class="list-group-item list-group-item-action">Formas de pagamentos</button>
-                <button id="btnPerfil" type="button" class="list-group-item list-group-item-action">Sair</button>
+                </a>
+
+                <a id="btnPerfil" href='/Carrinho'><button type="button" class="list-group-item list-group-item-action">
+                    Meus pedidos</button>
+
+                </a>
+                <a id="btnPerfil" href='/Carrinho'><button  href='/Carrinho' type="button" class="list-group-item list-group-item-action">
+                    Endereços de entrega</button>
+                </a>
+
+                    <a id="btnPerfil" href='/Carrinho'> <button href='/Carrinho' type="button" class="list-group-item list-group-item-action">
+                    Formas de pagamentos</button>
+                    </a>
+                    
+                    <a id="btnPerfil" href='/Carrinho'> <button  href='/Carrinho' type="button" class="list-group-item list-group-item-action">
+                    Sair</button>
+                    </a>
             </div>
         </div>
 

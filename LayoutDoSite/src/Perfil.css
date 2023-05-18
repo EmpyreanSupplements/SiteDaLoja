@@ -12,3 +12,9 @@
 #btnPerfil{
     text-decoration: none !important;
 }
+
+.list-group{
+    --bs-list-group-active-bg: rgb(132, 81, 167) !important;
+    --bs-list-group-action-hover-bg: #ececec !important;
+
+}
