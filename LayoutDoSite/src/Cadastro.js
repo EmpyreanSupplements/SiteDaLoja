@@ -1,34 +1,15 @@
 import NavbarComp from "./Components/NavbarComp";
 import Footer from "./Components/Footer";
 import './Login.css';
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { auth } from "./firebase";
 import { useNavigate } from "react-router-dom"
-import GoogleButton from 'react-google-button'
-import { provider } from "./firebase.js"
-import {signInWithPopup} from "firebase/auth"
-
-
 export function Cadastro() {
     const [email, setEmail] = useState(null);
     const [password, setPassword] = useState(null);
     const navigate = useNavigate();
-
-    const [value, setValue] = useState('')
-    const handleClick = () => {
-        signInWithPopup (auth, provider).then((data) => {
-            setValue (data.user.email)
-            localStorage.setItem("email", data.user.email)
-            console.log(data);
-            navigate("/");
-
-        })
-    }
-    useEffect (() =>{
-        setValue(localStorage.getItem('email'))
-    })
-
+    
     async function Cadastrar (e) {
         e.preventDefault();
         const response = createUserWithEmailAndPassword( auth, email, password)
@@ -63,17 +44,16 @@ return (
             <input class="form-control" type="password" id="txtSenha" placeholder="Crie uma senha" value={password} onChange={(e) => setPassword(e.target.value)} />
             </div>
             </div>
-         <hr />
-         <div class="mb-2">
-            <button onClick={handleClick}> Entrar Com Google</button>    
-            </div> 
+    <hr />
     <div class="mb-3" id="divConfirmar">
      <button className="button">Cadastrar-se</button>
-     <p>Já tem cadastro?<a href="/Login" className=""> Fazer login</a></p>
+     <p>Já tem cadastro?<a href="/Login" className="">Fazer login</a></p>
     </div>
-
     </form>
 </div>
+
+
+        
 </div>
    <Footer /></>
 )}

@@ -1,0 +1,14 @@
+.welcome{
+    color: rgb(59, 59, 59) !important;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+}
+
+#btnPerfil{
+    text-decoration: none !important;
+}
