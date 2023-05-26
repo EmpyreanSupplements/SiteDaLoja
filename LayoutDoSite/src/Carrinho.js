@@ -260,8 +260,8 @@ return (
 <h1 class='SubtitleCarrinho'>APROVEITE E LEVE MAIS...  </h1> 
 
 
-<div className="container">
-    <div className='row col-md-12'>
+<div className="container justify-content-center">
+    <div className='row col-md-12 justify-content-center'>
       <Card className="m-3"style={{ width: '18rem' }}>
       <Card.Img variant="top" src="whey1.png" />
       <Card.Body>

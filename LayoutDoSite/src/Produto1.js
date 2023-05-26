@@ -8,7 +8,7 @@ function Produto1() {
     return (
         <>
         <NavbarComp />
-        <div className="detalheproduto">
+        <div className="detalheproduto justify-content-center">
         <img src="whey1.png" class="imagem-produto"/> 
         <div className="text" >  
   <h2>ISOLATE PERFOMANCE WHEY PROTEIN 2kg</h2>
@@ -23,7 +23,7 @@ function Produto1() {
 
   <br></br>
 
-  <Button className="botaozinh" href='/Carrinho' variant="primary">Comprar</Button>
+  <Button className="botaozinh justify-content-center" href='/Carrinho' variant="primary">Comprar</Button>
 
   <div className="espacocep">
       <label htmlFor="cep">Consulte o prazo de entrega do seu pedido: </label>
@@ -42,8 +42,8 @@ function Produto1() {
 <br></br>
 <h2 className='promoções'>PRODUTOS SIMILARES</h2>
 
-    <div className="container">
-    <div className='row col-md-12'>
+  <div className="container justify-content-center">
+    <div className='row col-md-12 justify-content-center'>
     <Card className="m-3"style={{ width: '18rem' }}>
       <Card className="texto"> 
          <h6>Novo</h6>
