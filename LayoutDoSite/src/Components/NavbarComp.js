@@ -30,13 +30,26 @@ function NavbarComp() {
                 <Offcanvas.Body>
                 
            
-                  <div class="input-group">
+                  <div class="input-group justify-content-center">
                     <input class="form-control border-0 rounded-pill" type="search" placeholder="Encontre suplementos..."/>
                   </div>
-                 <a href="./Carrinho"><img class="icons" src="Carrinho.png" width="65%"/></a>
-                 <a href="./Perfil"><img class="icons" src="Usuario.png" width="65%"/></a>
-                 <a href="./Cadastro"><img class="icons" src="AddUsuario.png" width="65%"/></a>
-                 <a href="mailto:grupopp33@gmail.com"><img class="icons" src="Contato.png" width="65%"/></a>
+                  
+                  <div class="d-flex flex-row-reverse bd-highlight justify-content-end">
+                      <div class="p-2 bd-highlight">
+                        <a href="./Carrinho"><img class="icons" src="Carrinho.png" width="65%"/></a>
+                      </div>
+                      <div class="p-2 bd-highlight">
+                        <a href="./Perfil"><img class="icons" src="Usuario.png" width="65%"/></a>
+                      </div>
+                      <div class="p-2 bd-highlight">
+                        <a href="./Cadastro"><img class="icons" src="AddUsuario.png" width="65%"/></a>
+                      </div>
+                      <div class="p-2 bd-highlight ">
+                        <a href="mailto:grupopp33@gmail.com"><img class="icons" src="Contato.png" width="65%"/></a>
+                      </div>
+                  </div>
+
+                 
 
                 </Offcanvas.Body>
               </Navbar.Offcanvas>

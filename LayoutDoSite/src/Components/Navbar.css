@@ -33,7 +33,7 @@
 
 .d-flex{
     color: aliceblue !important;
-    margin-left: 35%;
+    margin-left: 15%;
 }
 
 .btn{
@@ -54,10 +54,7 @@
     text-shadow:#ABEEF1 1px 1px 1px !important;
 }
 
-.input-group{
-    width: 27% !important;
-    margin-left: 20% !important;
-}
+
 
 .icons {
     margin-left: 20%;
