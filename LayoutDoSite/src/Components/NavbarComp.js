@@ -34,8 +34,8 @@ function NavbarComp() {
                     <input class="form-control border-0 rounded-pill" type="search" placeholder="Encontre suplementos..."/>
                   </div>
                   
-                  <div class="d-flex flex-row-reverse bd-highlight justify-content-end">
-                      <div class="p-2 bd-highlight">
+                  <div class="d-flex flex-row-reverse bd-highlight justify-content-end" >
+                      <div class="p-2 bd-highlight" >
                         <a href="./Carrinho"><img class="icons" src="Carrinho.png" width="65%"/></a>
                       </div>
                       <div class="p-2 bd-highlight">
@@ -48,8 +48,6 @@ function NavbarComp() {
                         <a href="mailto:grupopp33@gmail.com"><img class="icons" src="Contato.png" width="65%"/></a>
                       </div>
                   </div>
-
-                 
 
                 </Offcanvas.Body>
               </Navbar.Offcanvas>
