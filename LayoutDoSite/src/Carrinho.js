@@ -38,35 +38,43 @@ return (
                     <b><a href="#" class="text-decoration-none text-danger">
                     WHEY PROTEIN ISOLATE</a></b>
                 </h4>
-                <h5>
+                <h5 class="descricaoTxt">
                 Fornece 27g de Whey Protein Isolado por porção, obtido através do processo de filtragem por membranas.
                 </h5>
             </div>
+
+
             <div
                 class="col-6 offset-6 col-sm-6 offset-sm-6 col-md-4 offset-md-8 col-lg-3 offset-lg-0 col-xl-2 align-self-center mt-3">
-                <div class="input-group" id="ajusteDeQuantidade">
+                
+
+
+                <div class="input-group">
                     <button class="btn btn-outline-dark btn-sm" type="button">
-                        <i class="bi-caret-down" font-size="16px" line-height="16px"> 
+                        
                             <img src="plus-lg.svg"/>
-                        </i>
+                       
                     </button>
-                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                    <input id="buttomPlus" type="text" class="form-control text-center border-dark" value="40"/>
                     <button class="btn btn-outline-dark btn-sm" type="button">
-                        <i class="bi-caret-up" font-size="16px" line-height="16px" >
+                       
                             <img src="dash.svg"/>
-                        </i>
                     </button>
                     <button class="btn btn-outline-danger border-dark btn-sm" type="button">
-                        <i class="bi-trash" font-size="16px" line-height="16px">
-                            <img src="trash3.svg"/>
+                        <i class="bi-trash" >
+                        <img src="trash3.svg"/>
                         </i>
                     </button>
                 </div>
+                
+                
+            </div>
+                
+
                 <div class="text-end mt-2">
                     <small class="text-secondary">Valor kg: R$ 369,90</small><br/>
                     <span class="text-dark">Valor Item: R$ 15,96</span>
                 </div>
-            </div>
         </div>
     </li>
     <hr/>
@@ -82,7 +90,7 @@ return (
                     <b><a href="#" class="text-decoration-none text-danger">
                     WHEY BLEND 900g</a></b>
                 </h4>
-                <h5>
+                <h5 class="descricaoTxt">
                     Abacate manteiga da melhor qualidade possível e muito fresco.
                 </h5>
             </div>
@@ -90,15 +98,14 @@ return (
                 class="col-6 offset-6 col-sm-6 offset-sm-6 col-md-4 offset-md-8 col-lg-3 offset-lg-0 col-xl-2 align-self-center mt-3">
                 <div class="input-group">
                     <button class="btn btn-outline-dark btn-sm" type="button">
-                        <i class="bi-caret-down">
+                        
                             <img src="plus-lg.svg"/>
-                        </i>
+                       
                     </button>
-                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                    <input id="buttomPlus" type="text" class="form-control text-center border-dark" value="40"/>
                     <button class="btn btn-outline-dark btn-sm" type="button">
-                        <i class="bi-caret-up" >
+                       
                             <img src="dash.svg"/>
-                        </i>
                     </button>
                     <button class="btn btn-outline-danger border-dark btn-sm" type="button">
                         <i class="bi-trash" >
@@ -126,7 +133,7 @@ return (
                     <b><a href="#" class="text-decoration-none text-danger">
                     CREATINE TURBO</a></b>
                 </h4>
-                <h5>
+                <h5 class="descricaoTxt">
                     Abacate manteiga da melhor qualidade possível e muito fresco.
                 </h5>
             </div>
@@ -170,7 +177,7 @@ return (
                     <b><a href="#" class="text-decoration-none text-danger">
                     CREATINA HARDCORE</a></b>
                 </h4>
-                <h5>
+                <h5 class="descricaoTxt">
                     Abacate manteiga da melhor qualidade possível e muito fresco.
                 </h5>
             </div>
@@ -222,7 +229,11 @@ return (
 </div>
     </div>
     
-    <div class="col" id="col2">
+
+    
+           
+
+    <div class="col  bd-highlight" id="col2">
         <h4 class="text-dark mb-3" id="titleResumo">RESUMO DO PEDIDO</h4>
 
         <br></br><br></br>
@@ -234,8 +245,10 @@ return (
            <a class="ValorDoFrete">100,00</a>
         </p>
 
+        
+
         <p class="paragrafosDoResumo">Produtos:<br></br>
-            <h6 class="produtosNoResumo">
+            <h6 class="flex align-items-end justify-content-end">
                 4X   WHEY PROTEIN ISOLATE <br></br>
                 4X   WHEY BLEND 900g <br></br>
                 4X   CREATINE TURBO <br></br>

@@ -139,10 +139,21 @@ hr{
     font-weight: 300;
     font-size: 40px;
     color: #080808;
-    text-decoration: underline;
-    text-decoration-color: rgb(57, 57, 57);
     text-underline-offset: 8px;
     font-family:  Garamond, serif;
     margin-bottom: 1rem; 
 }
+
+.descricaoTxt{
+    max-width: 90%;
+}
+
+.input-group{
+    flex-wrap: nowrap !important;
+}
+
+.buttomPlus{
+    min-width: 500px;
+}
+
 
