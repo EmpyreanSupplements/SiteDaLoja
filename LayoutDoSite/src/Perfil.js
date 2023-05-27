@@ -42,6 +42,27 @@ return (
             </div>
         </div>
 
+<div class="list-group" id="minhaLista" role="tablist">
+  <a class="list-group-item list-group-item-action active" data-toggle="list" href="#home" role="tab">Home</a>
+  <a class="list-group-item list-group-item-action" data-toggle="list" href="#perfil" role="tab">Perfil</a>
+  <a class="list-group-item list-group-item-action" data-toggle="list" href="#mensagens" role="tab">Mensagens</a>
+  <a class="list-group-item list-group-item-action" data-toggle="list" href="#configuracoes" role="tab">Configurações</a>
+</div>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="home" role="tabpanel">...1</div>
+  <div class="tab-pane" id="perfil" role="tabpanel">...2</div>
+  <div class="tab-pane" id="mensagens" role="tabpanel">...3</div>
+  <div class="tab-pane" id="configuracoes" role="tabpanel">...4</div>
+</div>
+
+
+('#minhaLista a[href="#perfil"]').tab('show') 
+('#minhaLista a:first-child').tab('show') 
+('#minhaLista a:last-child').tab('show') 
+('#minhaLista a:nth-child(3)').tab('show') 
+
+
         
     </div>    
 
