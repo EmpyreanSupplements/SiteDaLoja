@@ -21,3 +21,9 @@
   margin-left: 10%;
   height: 80%;
 }
+
+.btn-primary{
+  background: rgb(132, 81, 167) !important;
+  --bs-btn-hover-bg: rgb(118, 64, 255) !important;
+  border: none !important;
+}
