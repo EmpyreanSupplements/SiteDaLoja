@@ -12,12 +12,13 @@ function Perfil() {
 return (   
 <><NavbarComp/>
 
-    <div class="container-fluid justify-content-center">
-        <h3 id="welcome" class="font-weight-bold"> Oi fulano! Acompanhe aqui suas informações. Sair</h3>
+<h3 id="welcome" class="font-weight-bold  justify-content-center"> Oi fulano! Acompanhe aqui suas informações. Sair</h3>
+
+    <div class="container-fluid justify-content-center w-75 p-3">
 
         <div class="small-12 medium-12 large-3 columns mw-50  justify-content-center">
 
-            <div class="list-group list-group-horizontal text-center " id="minhaLista" role="tablist">
+            <div class="list-group list-group-horizontal text-center justify-content-center" id="minhaLista" role="tablist">
                 <a id="btnPerfil" class="list-group-item list-group-item-action active" data-toggle="list" href="#meusdados" role="tab">Meus dados</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#meuspedidos" role="tab">Meus pedidos</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#enderecos" role="tab">Endereços</a>
@@ -31,7 +32,7 @@ return (
 
         </div>
 
-        <div class="tab-content">
+        <div class="tab-content ">
                 <div class="tab-pane active" id="meusdados" role="tabpanel">
                     ...1
                 </div>
