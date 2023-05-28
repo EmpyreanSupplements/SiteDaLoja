@@ -37,13 +37,27 @@ function NavbarComp() {
                     <input class="form-control border-0 rounded-pill" type="search" placeholder="Encontre suplementos..."/>
                   </div>
                   
-                  <div class="d-flex flex-row-reverse bd-highlight justify-content-end" >
+                  <div class="d-flex flex-row bd-highlight " >
+                    <div class="p-2 bd-highlight">
+                            <li id="removeCircle" class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                              <a href="./Perfil">
+                                <img class="icons" src="Usuario.png" width="65%"/>
+                                </a>
+                              </a>
+
+                              <div class="dropdown-menu">
+                                <a class="dropdown-item" href="./Perfil">Minha conta</a>
+                                
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Sair</a>
+                              </div>
+                            </li>
+                      </div>
                       <div class="p-2 bd-highlight" >
                         <a href="./Carrinho"><img class="icons" src="Carrinho.png" width="65%"/></a>
                       </div>
-                      <div class="p-2 bd-highlight">
-                        <a href="./Perfil"><img class="icons" src="Usuario.png" width="65%"/></a>
-                      </div>
+                      
                       <div class="p-2 bd-highlight">
                         <a href="./Cadastro"><img class="icons" src="AddUsuario.png" width="65%"/></a>
                       </div>

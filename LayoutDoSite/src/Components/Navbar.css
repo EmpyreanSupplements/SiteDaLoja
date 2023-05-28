@@ -54,5 +54,6 @@
     text-shadow:#ABEEF1 1px 1px 1px !important;
 }
 
-
-
+#removeCircle{
+    list-style: none !important;
+}
