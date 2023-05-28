@@ -38,6 +38,9 @@ function App() {
   <div className="container justify-content-center">
     <div className='row col-md-12 justify-content-center '>
       <Card className="m-3"style={{ width: '18rem' }}>
+      <Card className="justify-content-start border-0 pt-3 pb-1" style={{ width: '3rem' }}> 
+        <img class="justify-content-start" src="iconNew.png"/>
+      </Card>
       <Card.Img variant="top" src="whey1.png" />
       <Card.Body>
         <Card.Title>WHEY PROTEIN ISOLATE</Card.Title>
@@ -49,6 +52,9 @@ function App() {
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
+    <Card className="justify-content-start border-0 pt-3 pb-1" style={{ width: '3rem' }}> 
+      <img class="justify-content-start" src="iconNew.png"/>
+    </Card>
       <Card.Img variant="top" src="whey2.webp" />
       <Card.Body>
         <Card.Title>WHEY BLEND 900g</Card.Title>
@@ -60,6 +66,9 @@ function App() {
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
+    <Card className="justify-content-start border-0 pt-3 pb-1" style={{ width: '3rem' }}> 
+      <img class="justify-content-start" src="iconNew.png"/>
+    </Card>
       <Card.Img variant="top" src="creatina1.webp" />
       <Card.Body>
         <Card.Title>CREATINE TURBO</Card.Title>
@@ -71,6 +80,9 @@ function App() {
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
+    <Card className="justify-content-start border-0 pt-3 pb-1" style={{ width: '3rem' }}> 
+      <img class="justify-content-start" src="iconNew.png"/>
+    </Card>
       <Card.Img variant="top" src="creatina2.webp" />
       <Card.Body>
         <Card.Title>CREATINA HARDCORE</Card.Title>
