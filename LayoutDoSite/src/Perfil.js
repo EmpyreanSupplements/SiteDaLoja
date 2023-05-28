@@ -13,7 +13,7 @@ return (
 <><NavbarComp/>
 
     <div class="container-fluid justify-content-center">
-        <h3 class="welcome"> Oi fulano! Acompanhe aqui seus pedidos e seus dados cadastrais. Sair</h3>
+        <h3 id="welcome" class="font-weight-bold"> Oi fulano! Acompanhe aqui suas informações. Sair</h3>
 
         <div class="small-12 medium-12 large-3 columns mw-50  justify-content-center">
 
