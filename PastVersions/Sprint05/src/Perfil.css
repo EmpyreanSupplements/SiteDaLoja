@@ -13,7 +13,7 @@
     text-decoration: none !important;
 }
 
-#minhaLista{
+.list-group{
     --bs-list-group-active-bg: rgb(132, 81, 167) !important;
     --bs-list-group-bg: rgb(197, 197, 197) !important;
     --bs-list-group-action-hover-bg: #e0e0e0 !important;

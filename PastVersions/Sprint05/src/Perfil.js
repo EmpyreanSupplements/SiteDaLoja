@@ -18,7 +18,7 @@ return (
 
         <div class="small-12 medium-12 large-3 columns mw-50  justify-content-center">
 
-            <div  class="list-group list-group-horizontal text-center justify-content-center" id="minhaLista" role="tablist">
+            <div class="list-group list-group-horizontal text-center justify-content-center" id="minhaLista" role="tablist">
                 <a id="btnPerfil" class="list-group-item list-group-item-action active" data-toggle="list" href="#meusdados" role="tab">Meus dados</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#meuspedidos" role="tab">Meus pedidos</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#enderecos" role="tab">Endereços</a>

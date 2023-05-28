@@ -1,0 +1,58 @@
+.Nav{
+    box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5) !important;
+}
+
+.b {
+    background-color: #B79BF2 !important;  
+    color: black !important;
+    color: aliceblue !important;
+    border-radius: 10px !important;
+}
+
+.c {
+    color: #B79BF2 !important;
+    text-shadow:#ABEEF1 1px 1px 1px !important;
+}
+
+.Nav{
+    background-color: #0D0D0D;
+    width: 100%;
+    min-height: 100%;
+}
+
+.logo{
+    min-width: 2% !important; 
+    max-width: 60% !important; 
+  
+}
+
+.me-2{
+    color: aliceblue !important;
+	border-radius: 10px 20px !important;
+}
+
+.d-flex{
+    color: aliceblue !important;
+    margin-left: 15%;
+}
+
+.btn{
+    --bs-btn-padding-y: 0.36rem !important
+}
+
+.form-inline{
+    align-items: center !important;
+    
+}
+
+.offcanvas-header, .offcanvas-body{
+    background-color: #0D0D0D !important;
+}
+
+.titleNavBarDropDanw{
+    color: #879dff !important;
+    text-shadow:#ABEEF1 1px 1px 1px !important;
+}
+
+
+
