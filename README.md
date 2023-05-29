@@ -62,6 +62,7 @@ Alunos do Instituto Federal do Ceará e estudantes de informática, nos juntamos
 - ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 - <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="20px">
 - <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" height="25px">
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg)" alt="firebase logo" height="25px">
   
 
 ## 🏆 Placar de contribuições
