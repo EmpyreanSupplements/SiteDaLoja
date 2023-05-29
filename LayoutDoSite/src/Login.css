@@ -1,0 +1,56 @@
+.button {
+    width: 30%;
+    height: 48px;
+    background: #4763E4;
+    border-radius: 12px;
+    color: #fff;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120%;
+    line-height: 22px;
+  }
+
+.button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
+
+  .cadastrarse{
+    padding-top: 3%;
+    text-align: center;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    color: rgba(54, 9, 95, 0.708);
+    
+}
+
+.subtitleCadastro{
+    padding-top: 1%;
+    margin-bottom: 3%;
+    text-align: center;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    color: rgba(54, 9, 95, 0.708);
+}
+
+#iconLogin{
+  width: 35px;
+  margin-left: 10px;
+}
+
+.mt-3 {
+  border: 2px #4763E4;
+}
+
+#divConfirmar{
+  text-align: center !important;
+  --bs-btn-bg: rgb(155, 108, 203) !important;
+  --bs-btn-hover-bg: rgb(118, 64, 255) !important;
+  border: none !important;
+}
+
+#btnConfirmar{
+  margin-top: 2%;
+  margin-bottom: 2% !important;
+
+}
