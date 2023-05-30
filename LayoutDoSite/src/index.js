@@ -9,6 +9,7 @@ import Login from './Login'
 import FormasPag from './FormasPag';
 import Produto1 from './Produto1';
 import Perfil from './Perfil';
+import ForgotPassword from './ForgotPassword';
 
 const router = createBrowserRouter([
   {
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
   {
     path: "/Perfil",
     element: <Perfil />
+  },
+  {
+    path: "/ForgotPassword",
+    element: <ForgotPassword />
   }
 ])
 
