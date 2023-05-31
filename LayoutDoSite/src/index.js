@@ -21,7 +21,7 @@ const router = createBrowserRouter([
     element: <Cadastro />
   },
   {
-    path: "/Carrinho",
+    path: "/carrinho",
     element: <Carrinho />
   },
   {
@@ -37,7 +37,7 @@ const router = createBrowserRouter([
     element: <Produto1 />
   },
   {
-    path: "/Perfil",
+    path: "/perfil",
     element: <Perfil />
   },
   {
