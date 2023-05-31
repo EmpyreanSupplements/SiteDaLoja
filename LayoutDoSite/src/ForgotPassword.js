@@ -56,7 +56,7 @@ export default function ForgotPassword() {
               </p>
             </div>
             <div className="form-group row mb-3">
-            <Button className="buttonforgot" syze="lg" type="submit">Enviar</Button>
+            <Button className="buttonforgot" type="submit">Enviar</Button>
             </div>
             </div>
       
