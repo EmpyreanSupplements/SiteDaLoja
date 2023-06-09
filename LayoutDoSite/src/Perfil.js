@@ -12,6 +12,7 @@ import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col';
 import InputGroup from 'react-bootstrap/InputGroup';
 
+
 function Perfil() {
 return (   
 <><NavbarComp/>
@@ -161,16 +162,36 @@ return (
           
                  </Tab>
                   <Tab eventKey="Não pago" title="Não pago">
-                  oi2
+                  <div class="col-4 col-md-3 col-lg-2">
+                <a href="#">
+                    <img src="creatina1.webp" class="img-thumbnail"/>
+                </a>
+            </div>
+            <div class="col-8 col-md-9 col-lg-7 col-xl-8 text-left align-self-center">
+                <h4>
+                    <b><a href="#" class="text-decoration-none text-danger">
+                    WHEY PROTEIN ISOLATE</a></b>
+                </h4>
+                <h5 class="descricaoTxt">
+                Fornece 27g de Whey Protein Isolado por porção, obtido através do processo de filtragem por membranas.
+                </h5>
+            </div>
+            <div
+                class="col-6 offset-6 col-sm-6 offset-sm-6 col-md-4 offset-md-8 col-lg-3 offset-lg-0 col-xl-2 align-self-center mt-3">
+                  <h4 class="text-dark">Pedido cancelado</h4><br></br>
+                  <Button variant="primary">Adicionar ao carrinho</Button><br></br>
+                 <span class="text-dark">Valor: R$ 369,90</span>
+                 
+            </div>
                   </Tab>
                   <Tab eventKey="Processando" title="Processando">
-                   oi3
+                 
                   </Tab>
                   <Tab eventKey="Enviado" title="Enviado" >
-                   oi3
+                   
                   </Tab>
                   <Tab eventKey="Concluido" title="Concluído" >
-                   oi3
+                  
                   </Tab>
                 </Tabs>
                 </div>

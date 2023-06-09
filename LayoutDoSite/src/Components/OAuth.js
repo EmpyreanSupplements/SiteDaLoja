@@ -4,6 +4,8 @@ import { FcGoogle } from "react-icons/fc";
 import { toast } from "react-toastify";
 import { db } from "../firebase";
 import { useNavigate } from "react-router-dom";
+import "./Googlebutton.css"
+
 
 export default function OAuth() {
 
@@ -38,10 +40,10 @@ export default function OAuth() {
     <button
       type="button"
       onClick={onGoogleClick}
-      className="flex items-center justify-center w-full bg-red-700 text-black px-7 py-3 uppercase text-sm font-medium hover:bg-red-800 active:bg-red-900 shadow-md hover:shadow-lg active:shadow-lg transition duration-150 ease-in-out rounded"
+      className="justify-center py-1 px-2"
     >
-      <FcGoogle className="text-2xl bg-red rounded-full mr-2"  />
-      Continuar com Google
+      <FcGoogle/>
+      Fazer login
     </button>
   );
 }

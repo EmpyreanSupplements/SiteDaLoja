@@ -23,14 +23,14 @@ function Footer() {
             </div>
             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                 <h5 className="text-uppercase mb-4 font-weight-bold text-dark">Produtos</h5>
-                <p><a href="#" className="text-dark">Suplementos</a></p>
-                <p><a href="#" className="text-dark">Acessórios</a></p>
-                <p><a href="#" className="text-dark">Moda esportiva</a></p>
+                <p><a href="NotFound" className="text-dark">Suplementos</a></p>
+                <p><a href="NotFound" className="text-dark">Acessórios</a></p>
+                <p><a href="NotFound" className="text-dark">Moda esportiva</a></p>
             </div>
             <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
                 <h5 className="text-uppercase mb-4 font-weight-bold text-dark">Links úteis</h5>
                 <p><a href="Perfil" className="text-dark">Sua conta</a></p>
-                <p><a href="#" className="text-dark">Ajuda</a></p>
+                <p><a href="NotFound" className="text-dark">Ajuda</a></p>
                 <p><a href="FormasPag" className="text-dark">Formas de pagamento</a></p>
             </div>
             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">

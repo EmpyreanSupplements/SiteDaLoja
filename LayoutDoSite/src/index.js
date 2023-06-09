@@ -10,6 +10,7 @@ import FormasPag from './FormasPag';
 import Produto1 from './Produto1';
 import Perfil from './Perfil';
 import ForgotPassword from './ForgotPassword';
+import NotFound from './NotFound';
 
 const router = createBrowserRouter([
   {
@@ -43,6 +44,10 @@ const router = createBrowserRouter([
   {
     path: "/ForgotPassword",
     element: <ForgotPassword />
+  },
+  {
+    path: "/NotFound",
+    element: <NotFound />
   }
 ])
 
