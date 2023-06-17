@@ -11,6 +11,7 @@ import Produto1 from './Produto1';
 import Perfil from './Perfil';
 import ForgotPassword from './ForgotPassword';
 import NotFound from './NotFound';
+import PrivSeg from './PrivSeg';
 
 const router = createBrowserRouter([
   {
@@ -48,6 +49,10 @@ const router = createBrowserRouter([
   {
     path: "/NotFound",
     element: <NotFound />
+  },
+  {
+    path: "/PrivSeg",
+    element: <PrivSeg />
   }
 ])
 

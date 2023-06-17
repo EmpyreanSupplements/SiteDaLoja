@@ -10,7 +10,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col';
-import InputGroup from 'react-bootstrap/InputGroup';
+
 
 
 function Perfil() {
@@ -27,8 +27,6 @@ return (
                 <a id="btnPerfil" class="list-group-item list-group-item-action active" data-toggle="list" href="#meusdados" role="tab">Meus dados</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#meuspedidos" role="tab">Meus pedidos</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#enderecos" role="tab">Endereços</a>
-                <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#cartoes" role="tab">Cartões</a>
-                <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#cupons" role="tab">Cupons</a>
                 <a id="btnPerfil" class="list-group-item list-group-item-action" data-toggle="list" href="#sair" role="tab">Sair</a>
                 
             </div>
@@ -263,13 +261,6 @@ return (
         Confirmar
       </Button>
     </Form>
-                </div>
-
-                <div class="tab-pane" id="cartoes" role="tabpanel">
-                    ...5
-                </div>
-                <div class="tab-pane" id="cupons" role="tabpanel">
-                    ...6
                 </div>
                 <div class="tab-pane" id="sair" role="tabpanel">
                     ...7
