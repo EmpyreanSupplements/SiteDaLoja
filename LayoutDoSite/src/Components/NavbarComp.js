@@ -30,8 +30,13 @@ function NavbarComp() {
                 
            
                   <div class="input-group justify-content-center">
-                    <input class="form-control border-0 rounded-pill" type="search" placeholder="Encontre suplementos..."/>
+                    <input class="form-control border-0 " type="search" placeholder="Encontre suplementos..." img="search.svg" />
+                    <span class="input-group-text">
+                    <img class="IconeSearchNavbar" src="search.svg" alt='logo' />
+                    </span>
                   </div>
+
+                  
                   
                   <div class="d-flex flex-row bd-highlight " >
                     <div class="p-2 bd-highlight">

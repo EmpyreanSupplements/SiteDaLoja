@@ -57,3 +57,8 @@
 #removeCircle{
     list-style: none !important;
 }
+
+.input-group-text{
+    background: rgba(213, 198, 252, 0.85) !important;
+    padding: .120rem .55rem !important;
+}
