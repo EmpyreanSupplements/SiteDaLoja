@@ -135,7 +135,7 @@ return (
                                   <div class="row g-3">
                                       <div class="col-4 col-md-3 col-lg-2">
                                           <a href="#">
-                                              <img src="creatina1.webp" class="img-thumbnail"/>
+                                              <img src="chocopro.png" class="img-thumbnail"/>
                                           </a>
                                       </div>
                                       <div class="col-8 col-md-9 col-lg-7 col-xl-8 text-left align-self-center">
@@ -159,7 +159,7 @@ return (
                                       <div class="row g-3">
                                         <div class="col-4 col-md-3 col-lg-2">
                                             <a href="#">
-                                                <img src="creatina1.webp" class="img-thumbnail"/>
+                                                <img src="tauros.png" class="img-thumbnail"/>
                                             </a>
                                         </div>
                                         <div class="col-8 col-md-9 col-lg-7 col-xl-8 text-left align-self-center">
