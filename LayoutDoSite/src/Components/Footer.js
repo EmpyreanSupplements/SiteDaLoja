@@ -37,7 +37,7 @@ function Footer() {
                 <h5 className="text-uppercase mb-4 font-weight-bold text-dark">Contato</h5>
                 <p><a href="mailto:grupopp33@gmail.com" className="text-dark"> <img class="iconFooter" src="envelope.svg" width="20px"/>Mande um e-mail</a></p>
                 <p><a href="#" className="text-dark"> <img class="iconFooter" src="telephone.svg" width="20px"/>(85)3451-3132</a></p>
-                <p><a href="#" className="text-dark"> <img class="iconFooter" src="local.svg" width="20px"/>Av. Antônio Sales, 3110</a></p>
+                <p><a href="#" className="text-dark"> <img class="iconFooter" src="local.svg" width="20px"/>R. Prof. Manoel Lourenço, 820 - Jóquei Clube, Fortaleza - CE, 60510-101</a></p>
             </div>
         </div>
     </div>

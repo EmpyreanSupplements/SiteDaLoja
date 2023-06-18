@@ -34,6 +34,10 @@
     --bs-btn-hover-bg: rgb(118, 64, 255) !important;
     border: none !important;
 }
+#nome, #email, #senha, #cpf, #estado, #cidade{
+    border-radius: 13px !important;
+    box-shadow: 3px 4px rgba(207, 207, 207, 0.4)!important;
+}
 
 .butao {
     position: absolute;
