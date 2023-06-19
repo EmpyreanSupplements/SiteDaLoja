@@ -5,6 +5,7 @@ import './PrivSeg.css'
 function PrivSeg() {
 return (   
 <><NavbarComp/>
+
 <div className="Formas">
 <h1>Privacidade e segurança</h1> 
     <br></br>

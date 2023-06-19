@@ -97,6 +97,7 @@ return (
 
         <div class="mb-3" id="divConfirmar">
             <button id="btnConfirmar" type= "submit" class="rounded-pill shadow p-3 mb-3 rounded mt-2" className="button">Cadastrar-se</button>
+            <hr/>
             <p>Já tem cadastro? <a href="/Login" className="">Logar</a></p>
             <OAuth/>
         </div>
