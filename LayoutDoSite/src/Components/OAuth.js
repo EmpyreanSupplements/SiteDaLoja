@@ -40,10 +40,13 @@ export default function OAuth() {
     <button
       type="button"
       onClick={onGoogleClick}
-      className="justify-center py-1 px-2"
+      className="justify-center w-5 py-1  shadow p-3 mb-3 rounded mt-2"
+      style={{ width: '30%' , height: '48px'}}
     >
-      <FcGoogle/>
-      Fazer login
+      <FcGoogle style={{ width: '30%' , height: '80%', marginLeft:'0'}}/> 
+      Logar com o Google
     </button>
   );
+
+  
 }

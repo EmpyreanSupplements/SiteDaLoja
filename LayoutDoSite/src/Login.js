@@ -79,20 +79,24 @@ return (
                 />
               )} 
             </div>
-         
-                 <Link
-        to="/ForgotPassword"
-        className="text-blue-600 hover:text-blue-800 transition duration-200 ease-in-out"
-        >
-        Esqueceu sua senha?
-        </Link>
+                
+              <div className="form-group row mb-2 justify-content-center text-center">
+                  <Link 
+                      to="/ForgotPassword"
+                      className="text-blue-600 hover:text-blue-800 transition duration-200 ease-in-out text-center"
+                      >
+                      Esqueceu sua senha? 
+                    </Link>
+              </div>
+
             </div>
         <hr/>
-        <div class="justify-content-center mb-3" id="divConfirmar"> 
+        <div class="justify-content-center  " id="divConfirmar"> 
             
-           <button id="btnConfirmar" class="rounded-pill shadow p-3 mb-3 rounded mt-2" className="button">Fazer login</button>
-          <p>Não tem login? <a href="/Cadastro" className="">Cadastrar-se</a></p>
+           <button id="btnConfirmar" class="rounded-pill shadow p-3 rounded mt-2" className="button">Fazer login</button>
+           <br></br>
           <OAuth/>
+          <p className="mt-4">Não tem login? <a href="/Cadastro" className="">Cadastrar-se</a></p>
         </div>
 
     </form>

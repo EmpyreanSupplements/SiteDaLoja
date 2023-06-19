@@ -28,9 +28,11 @@ export default function ForgotPassword() {
   return (
     <> <NavbarComp/>
     <section className="sessao">
-      <h1 className="text-center mt-6 font-bold mb-5">Esqueceu sua senha?</h1>
-      <h4 className="text-center mt-6 font-bold">Digite seu endereço de email</h4>
-        <div className="container" text-align="center">
+    <h1 class="cadastrarse">
+        Esqueceu sua senha?
+    </h1>
+      <h2 class="subtitleCadastro">Informe seu e-mail, por favor</h2>
+        <div className="container justify-content-center" text-align="center">
           <form class="row justify-content-center" onSubmit={onSubmit}>
            <div className="col-md-6">
           <div className="form-group row mb-3">
@@ -44,14 +46,14 @@ export default function ForgotPassword() {
             />
             </div>
             
-            <div className="form-group row mb-3">
+            <div className="form-group row mb-2 justify-content-center text-center">
               <p className="mb-3">
                 Ainda não tem cadastro?
                 <Link
                   to="/Cadastro"
                   className="text-red-600 hover:text-red-700 transition duration-200 ease-in-out ml-1"
                 >
-                  Cadastrar-se
+                    <br></br>Cadastrar-se
                 </Link>
               </p>
             </div>
