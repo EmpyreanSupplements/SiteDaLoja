@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.Carousel {
+  margin-top: 1%;
+  position: absolute;
+  margin-left: 10%;
+  width: 80%;
+  height: 80%;
+}
+
+.promoções {
+  position: relative;
+  margin-left: 43%;
+  font-weight: bold
+}
+
+.carrossel {
+  width: 80%;
+  margin-left: 10%;
+  height: 80%;
+}
+
+.texto h6{
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  background-color: #27b737;
+  padding: 3px 10px;
+  border-radius: 2px;
+}

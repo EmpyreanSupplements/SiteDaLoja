@@ -1,0 +1,72 @@
+#banner {
+    display: block;
+    margin: auto;
+}
+
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+.imagem-produto{
+position: relative;
+width: 450px;
+height: 450px;
+top: 50px;
+left: 310px;
+}
+
+.text {
+position: absolute;
+width: 587px;
+height: 198px;
+left: 794px;
+top: 165px;
+
+}
+
+.text-end h5{
+position: absolute;
+width: 195px;
+height: 25px;
+left: 774px;
+top: 250px !important;
+
+text-align: center;
+letter-spacing: 0.08em;
+
+color: rgba(29, 23, 23, 0.72)
+
+}
+
+.text-end h2{
+    position: absolute;
+    left: 798px;
+    top: 275px;
+    
+    text-align: center;
+    letter-spacing: 0.08em;
+      
+}
+
+.text-end h6{
+    position: absolute;
+    left: 798px;
+    top: 320px;
+    
+    font-weight: 700;
+}
+
+
+.espacocep {
+    position: absolute;
+    left: 798px;
+    top: 445px;
+}
+
+.botaozinh{
+    position: absolute !important;
+    left: 798px !important;
+    top: 375px !important; 
+    width: 200px;
+    height: 40px;
+}
