@@ -27,8 +27,8 @@
 # <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
 <img src="/ReadmeProjeto/íconesHeader.png" alt="Logo" height="">
-<img src="/ReadmeProjeto/pastversions2.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/pastversions3.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/LoginErrado.png" alt="Logo" height="">
+<img src="/ReadmeProjeto/TamanhoCaixaLogin.png" alt="Logo" height="">
 
 
 
