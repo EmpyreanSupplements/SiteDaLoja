@@ -48,7 +48,7 @@ function NavbarComp() {
                               </a>
 
                               <div class="dropdown-menu">
-                                <a class="dropdown-item" href="./Perfil">Meu Perfil</a>
+                                <a class="dropdown-item" href="./Perfil">Minha conta</a>
                                 
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="#">Sair</a>

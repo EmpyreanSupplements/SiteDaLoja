@@ -25,8 +25,8 @@ export default function OAuth() {
 
       if (!docSnap.exists()) {
         await setDoc(docRef, {
-          name: result.user.displayName,
-          email: result.user.email,
+          name: user.displayName,
+          email: user.email,
           timestamp: serverTimestamp(),
         });
       }
@@ -46,7 +46,6 @@ export default function OAuth() {
       <FcGoogle style={{ width: '30%' , height: '80%', marginLeft:'0'}}/> 
       Logar com o Google
     </button>
-    
   );
 
   

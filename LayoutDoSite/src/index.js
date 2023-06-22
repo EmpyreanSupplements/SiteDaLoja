@@ -1,66 +1,68 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
-import Cadastro from './Cadastro';
-import Carrinho from './Carrinho';
-import Login from './Login'
-import FormasPag from './FormasPag';
-import Produto1 from './Produto1';
-import Perfil from './Perfil';
-import ForgotPassword from './ForgotPassword';
-import NotFound from './NotFound';
-import PrivSeg from './PrivSeg';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Cadastro from "./Cadastro";
+import Carrinho from "./Carrinho";
+import Login from "./Login";
+import FormasPag from "./FormasPag";
+import Produto1 from "./Produto1";
+import Perfil from "./Perfil";
+import ForgotPassword from "./ForgotPassword";
+import NotFound from "./NotFound";
+import PrivSeg from "./PrivSeg";
+import AddProduct from "./addProduct";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />
+    element: <App />,
   },
   {
     path: "/Cadastro",
-    element: <Cadastro />
+    element: <Cadastro />,
   },
   {
     path: "/carrinho",
-    element: <Carrinho />
+    element: <Carrinho />,
   },
   {
     path: "/Login",
-    element: <Login />
+    element: <Login />,
   },
   {
     path: "/FormasPag",
-    element: <FormasPag />
+    element: <FormasPag />,
   },
   {
-    path: "/Produto1",
-    element: <Produto1 />
+    path: "/product/:id",
+    element: <Produto1 />,
   },
   {
     path: "/perfil",
-    element: <Perfil />
+    element: <Perfil />,
   },
   {
     path: "/ForgotPassword",
-    element: <ForgotPassword />
+    element: <ForgotPassword />,
   },
   {
     path: "/NotFound",
-    element: <NotFound />
+    element: <NotFound />,
   },
   {
     path: "/PrivSeg",
-    element: <PrivSeg />
-  }
-])
+    element: <PrivSeg />,
+  },
+  {
+    path: "/addProduct",
+    element: <AddProduct />,
+  },
+]);
 
-
-
-const root = ReactDOM.createRoot(document.getElementById('root')).render(
+const root = ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-   <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
-
