@@ -26,13 +26,10 @@
 
 # <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
-![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
-
-<img src="/ReadmeProjeto/pastversions1.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/íconesHeader.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/pastversions2.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/pastversions3.PNG" alt="Logo" height="">
 
-![Badge](https://img.shields.io/badge/BD-Modelagem-blueviolet)
 
 
 <img src="/ReadmeProjeto/bdSite.jpg" alt="Logo" height="">
