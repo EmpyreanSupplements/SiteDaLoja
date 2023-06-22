@@ -21,7 +21,7 @@
 
 ## 📚 Considerações:
 
-> Nesta sprint conseguimos: implementar a homepage com a rotas funcionando, a estrtura do site em relação a montagem/personalização e criação das páginas está funcional. O banco de dados passou por uma remodelação afim de corrigir versões anteriores e está ok. O GitHub foi atualizado em diários de sprint, visível na pasta `PastVersions`, ou seja, a cada sprint entregue foi documentado nesses readmes o que foi possível ser feito. Demos também atenção ao Trello, atualizando o status de algumas atividades.
+> Nesta sprint conseguimos: implementar ícones ajustados, mensagem de erro e login e ajustar o tamanho da caixa de login. Além disso criamos uma tela de manutenção e privacidade e segurança no projeto.
 <br/>
 
 # <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
@@ -32,10 +32,11 @@
 
 
 
-<img src="/ReadmeProjeto/bdSite.jpg" alt="Logo" height="">
+<img src="/ReadmeProjeto/Tela de manutenção.png" alt="Logo" height="">
+<img src="/ReadmeProjeto/PrivSegTela.png" alt="Logo" height="">
 
 ## 📚 Considerações:
 
-> Os bancos de dados orientados a documentos são diferentes dos outros BD’s tradicionais, onde os dados são armazenados em documentos definidos previamente, além de possuir o armazenamento de estruturas autocontidas e que possuem uma autodescrição, outra característica é que as coleções não possuem um relacionamento explícito entre coleções. <br/> <br/> Como podemos ver na modelagem, temos um documento Cliente, que possui os dados do usuário já cadastrados, quando o usuário realiza um pedido, ele vai ter algumas de suas informações redirecionadas para o Pedido Document, que constará tanto suas informações quanto as informações do produto requisitado, produtos esses que também terão informações, redirecionadas do Produto Document.
+> A tela de munutenção foi pensada para complementar as páginas não concluídas do projeto que futuramente podem ser feitas, além disso a tela de privacidade e segurança foi criada especialmente para que o cliente se sinta seguro a colocar suas informações pessoas e fazer compras em nosso site.
 
 <br/>
