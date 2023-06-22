@@ -1,0 +1,76 @@
+* {
+    margin: 0%;
+    padding: 0;
+
+}
+
+.Formas {
+    margin-top: 2%;
+    position: relative;
+    width: 60%;
+}
+
+.Formas h1{
+    position: relative;
+    left: 24%;
+}
+
+.texto1 h2 {
+    color: red;
+    position: relative;
+    left: 24%;
+}
+
+.texto1 h6{
+    position: relative;
+    left: 24%;
+}
+
+.texto2 h2 {
+    color: red;
+    position: relative;
+    left: 24%;
+}
+
+.siteblindado{
+    position: relative;
+    left: 24%;
+}
+
+.comodo{
+    position: relative;
+    left: 24%;
+}
+
+.texto3 h6{
+    position: relative;
+    left: 24%;
+}
+
+.texto4 h2 {
+    color: red;
+    position: relative;
+    left: 24%;
+}
+
+.texto4 h6{
+    position: relative;
+    left: 24%;
+}
+
+.texto5 h2 {
+    color: red;
+    position: relative;
+    left: 24%;
+}
+
+.texto5 h6{
+    position: relative;
+    left: 24%;
+}
+
+.imagem{
+    position: relative;
+    left: 24%;
+
+}

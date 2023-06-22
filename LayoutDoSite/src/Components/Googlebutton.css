@@ -1,0 +1,10 @@
+.justify-center{
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    transition: all 0.3s ease 0s;
+    letter-spacing: 0.5px;
+    margin-top: 0.5rem;
+    border:solid 0.1px;
+    background-color: rgb(250, 250, 250);
+}

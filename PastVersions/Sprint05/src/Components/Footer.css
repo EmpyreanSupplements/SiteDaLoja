@@ -1,0 +1,23 @@
+.bg-light{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    background-color: rgb(208, 208, 208) !important;
+    margin-top: 4rem !important;
+}
+
+.iconFooter{
+    margin-right:8px !important;
+}
+
+#rodape{
+    background-color: rgba(137 135 135) !important;
+}
+
+#redessociais{
+    background-color: #8170e1 !important;
+}
+
+.iconesDeRede{
+    margin-left: 20px !important;
+    justify-content: right;
+}
