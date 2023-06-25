@@ -16,7 +16,7 @@ function AddProduct() {
     if (imageUpload == null) return;
     const imageRef = ref(storage, `images/${imageUpload.name + v4()}`);
     await uploadBytes(imageRef, imageUpload).then(() => {
-      alert("fodase");
+      alert("Produto adicionado");
     });
     
     getDownloadURL(imageRef).then((url) => {
